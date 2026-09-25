@@ -1,4 +1,8 @@
-# Digital Brain
+# Career Knowledge Base
 
-This page will be replaced automatically the next time the private
-knowledge base syncs published entries here.
+Published entries, grouped by project/period.
+
+## 2022
+- [Development of simple Flexray Driver](entries/2022/Flexray_Driver_Devleopment.md)
+
+[Skill Matrix](skills/index.md)
