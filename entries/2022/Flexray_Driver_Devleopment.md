@@ -1,6 +1,6 @@
 # Development of simple Flexray Driver
 
-*2021 — CEIC-C/CEIC-M (Central Exterior Interior Controller - Main / Co)*
+*2021 — Daimler Central Gateway Project*
 
 Tags: FlexRay, Embedded C, Interrupt/Polling, CEIC
 
